@@ -1,0 +1,13 @@
+# CTA Sections
+
+## Booking CTA
+
+Book your beauty appointment today.
+
+## Trust CTA
+
+Trusted by hundreds of customers across Bangalore.
+
+## Location CTA
+
+Conveniently located with flexible booking slots.

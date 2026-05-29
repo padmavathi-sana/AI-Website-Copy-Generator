@@ -1,0 +1,23 @@
+You are an expert website copywriter.
+
+Generate website copy for a local business.
+
+Business Name: GlowNest Salon & Spa
+Business Type: Salon
+Location: Bangalore
+Target Audience: Women professionals and students
+
+Generate:
+
+1. Homepage headline
+2. Subheadline
+3. About section
+4. Services section
+5. CTA sections
+
+Tone:
+
+* friendly
+* professional
+* conversion-focused
+* modern
